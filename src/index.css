@@ -80,6 +80,9 @@ header {
   object-fit: cover;
   display: block;
 }
+.unselected {
+  filter: grayscale(1);
+}
 
 .sidebar ul {
   list-style: none;
